@@ -1,0 +1,1 @@
+"# Cadastro_Pessoas_Crud"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/igorprogrammer93/Cadastro_Pessoas_Crud.gitgit push -u origin main
